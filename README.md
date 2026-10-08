@@ -1,1 +1,1 @@
-# maratona-tech-2026-nick
+# MARATONA-TECH-2026
