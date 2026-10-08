@@ -1,6 +1,6 @@
 /* ============================================
    TRABALHO: Esporte Digital — ACESSÍVEL
-   ALUNO: [SEU NOME] - 3º Ano EM
+   ALUNO: [nicolly amorim] - 3º Ano EM
    Inclui recursos de acessibilidade
 ============================================ */
 
