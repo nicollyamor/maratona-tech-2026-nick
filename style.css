@@ -14,10 +14,10 @@
 
 /* ---------- VARIÁVEIS ---------- */
 :root {
-  --azul: #2563EB;
-  --verde: #10B981;
-  --amarelo: #F59E0B;
-  --vermelho: #DC2626;
+  --rosa: #f2419a;
+  --verde: ##91ffff;
+  --amarelo: #f2ff91;
+  --vermelho:#ed535d;
   --escuro: #0F172A;
   --cinza: #64748B;
   --claro: #F1F5F9;
@@ -45,8 +45,8 @@ body.alto-contraste {
   --claro: #000000;
   --cinza: #FFFF00;
   --borda: #FFFF00;
-  --azul: #FFFF00;
-  --verde: #00FF00;
+  --rosa: #b81c62;
+  --verde: #85ffe0;
 }
 
 body.alto-contraste * {
